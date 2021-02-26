@@ -1,0 +1,2 @@
+# World-Demographic-Trends-Analysis-and-Visualization
+This project is an analysis and visualization of world demographic trends dataset to depict:  1)BirthRate versus Internet Users categorized by Income Group. 2)BirthRate versus Internet Users categorized by Country Region. 3)BirthRate versus LifeExpectancy categorized by Country Region in 1960. 4)BirthRate versus LifeExpectancy categorized by Country Region in 2013. (Data for year 1960 and 2013)
